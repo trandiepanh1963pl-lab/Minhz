@@ -2,12 +2,12 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "Soliar tổng hợp hub",
-         Animation = "soliar on top"
+         Title = "Soliar tổng hợp",
+         Animation = "đang lên"
          },
         Key = {
         KeySystem = true,
-        Title = "bản vip nên có key",
+        Title = "Key đâu cu",
         Description = "",
         KeyLink = " https://link4sub.com/uLyo",
         Keys = {"nanatvcute.cc"},
@@ -21,7 +21,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=92120582532478",
+       Image = "https://www.roblox.com/library/12995984698/Cheems",
        Size = {60, 60},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
